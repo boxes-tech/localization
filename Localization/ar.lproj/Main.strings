@@ -1,0 +1,8 @@
+
+/* Class = "UILabel"; text = "Hello"; ObjectID = "INB-WQ-qTd"; */
+"INB-WQ-qTd.text" = "اهلا";
+
+/* Class = "UIButton"; normalTitle = "Arabic"; ObjectID = "MBy-Qz-ITW"; */
+"MBy-Qz-ITW.normalTitle" = "Arabic";
+/* Class = "UITextField"; text = "UserName"; ObjectID = "s6R-k4-DNf"; */
+"s6R-k4-DNf.text" = "اسم المستخدم";
